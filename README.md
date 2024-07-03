@@ -9,3 +9,7 @@ What is contained here is mostly part of a personal project.
 ### Notes API ([notes-api](https://github.com/fwaskito/notes-api))
 - [test-report.html](https://rawcdn.githack.com/fwaskito/me/71b9df8d4f6b958d6429fb7e0c7ca9805548c4f4/notes-api/test-report.html)
 - [test-summary-report.html](https://rawcdn.githack.com/fwaskito/me/71b9df8d4f6b958d6429fb7e0c7ca9805548c4f4/notes-api/test-summary-report.html)
+
+### Notes API ([notes-api](https://github.com/fwaskito/notes-api))
+- [test-report.html](https://rawcdn.githack.com/fwaskito/me/18c656159ac1f3dc669fdfd5c1697ec5531fa031/booshelf/test-report.html)
+- [test-summary-report.html](https://rawcdn.githack.com/fwaskito/me/18c656159ac1f3dc669fdfd5c1697ec5531fa031/booshelf/test-summary-report.html)
